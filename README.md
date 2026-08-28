@@ -96,4 +96,4 @@ Primary concerns:
 
 ## Author
 
-Cybersecurity Audit Project
+Gad Narteh Puplampu

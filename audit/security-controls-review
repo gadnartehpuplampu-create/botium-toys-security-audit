@@ -1,0 +1,29 @@
+# Security Controls Review
+
+## Administrative Controls
+
+| Control | Status |
+|---|---|
+| Least Privilege | Not Implemented |
+| Disaster Recovery Plan | Not Implemented |
+| Password Policy | Implemented but Weak |
+| Separation of Duties | Not Implemented |
+
+## Technical Controls
+
+| Control | Status |
+|---|---|
+| Firewall | Implemented |
+| IDS | Not Implemented |
+| Antivirus | Implemented |
+| Encryption | Not Implemented |
+| Backups | Not Implemented |
+| Password Management System | Not Implemented |
+
+## Physical Controls
+
+| Control | Status |
+|---|---|
+| Locks | Implemented |
+| CCTV | Implemented |
+| Fire Detection | Implemented |

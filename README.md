@@ -94,10 +94,6 @@ Primary concerns:
 7. Maintain an updated asset inventory.
 8. Strengthen compliance monitoring.
 
-## Author
-
-Gad Narteh Puplampu
-
 # Security Controls Review
 
 ## Administrative Controls
@@ -126,4 +122,38 @@ Gad Narteh Puplampu
 |---|---|
 | Locks | Implemented |
 | CCTV | Implemented |
-| Fire Detection | Implemented |
+| Fire Detection | Implemented |  
+
+# Compliance Review
+
+## PCI DSS
+
+| Requirement | Status |
+|---|---|
+| Restricted credit card access | Failed |
+| Secure storage and transmission | Failed |
+| Encryption of payment data | Failed |
+| Secure password management | Failed |
+
+## GDPR
+
+| Requirement | Status |
+|---|---|
+| Protect EU customer data | Failed |
+| 72-hour breach notification plan | Passed |
+| Data classification | Failed |
+| Privacy policies | Passed |
+
+## SOC Controls
+
+| Requirement | Status |
+|---|---|
+| User access policies | Failed |
+| Sensitive data confidentiality | Failed |
+| Data integrity | Passed |
+| Data availability | Passed |
+
+## Author
+
+Gad Narteh Puplampu
+
